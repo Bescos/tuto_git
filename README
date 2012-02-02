@@ -1,1 +1,3 @@
 Instructions pour créer et gérer un dépôt avec GIT :
+
+1. tapez la commande "git init" à la racine du projet
