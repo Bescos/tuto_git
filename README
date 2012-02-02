@@ -8,4 +8,7 @@ Instructions pour créer et gérer un dépôt avec GIT :
   
 4. git commit -m 'first commit'
 
+5. git push -u origin master
+
+
 
