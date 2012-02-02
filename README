@@ -4,4 +4,8 @@ Instructions pour créer et gérer un dépôt avec GIT :
 
 2. touch README
 
+3. git add README
+  
+4. git commit -m 'first commit'
+
 
